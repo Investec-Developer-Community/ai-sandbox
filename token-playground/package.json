@@ -1,0 +1,18 @@
+{
+  "name": "investec-token-playground",
+  "version": "0.1.0",
+  "description": "Token playground for Investec OAuth flows (web + CLI)",
+  "type": "module",
+  "main": "cli.js",
+  "scripts": {
+    "start": "node cli.js",
+    "web": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "open": "^9.0.0",
+    "express": "^4.18.0",
+    "inquirer": "^9.0.0",
+    "axios": "^1.0.0"
+  }
+}
