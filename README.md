@@ -1,9 +1,5 @@
 # Investec AI-Friendly Developer Sandbox
 
-<div align="center">
-
-![Investec Logo](https://developer.investec.com/assets/images/investec-logo.svg)
-
 **A complete developer toolkit for building with Investec APIs using AI assistants like Claude, ChatGPT, and Copilot**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
