@@ -1,3 +1,4 @@
+## 🚧 This is a work in progress/ for funsies repo - not for prod 🚧
 # Investec AI-Friendly Developer Sandbox
 
 **A complete developer toolkit for building with Investec APIs using AI assistants like Claude, ChatGPT, and Copilot**
