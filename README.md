@@ -323,13 +323,11 @@ cd ../token-playground && npm run web
 ### Get Help
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/investec-developer-community/ai-sandbox/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/investec-developer-community/ai-sandbox/discussions)  
-- 📚 **Documentation**: [Sandbox Docs](sandbox/README.md)
 - 🌐 **Official Docs**: [Investec Developer Portal](https://developer.investec.com/)
 
 ### Stay Connected
-- 🐦 **Twitter**: [@InvestecDev](https://twitter.com/InvestecDev)
-- 💼 **LinkedIn**: [Investec Developer Community](https://linkedin.com/company/investec)
-- 📧 **Newsletter**: [Developer Updates](https://developer.investec.com/newsletter)
+- 💼 **LinkedIn**: [Investec Developer Community](https://www.linkedin.com/showcase/investecdeveloper/)
+- 📧 **Join the community**: [Developer Updates](https://investec.gitbook.io/programmable-banking-community-wiki)
 
 ---
 
